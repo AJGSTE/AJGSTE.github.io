@@ -6,3 +6,9 @@ Atualmente , estudo:
 - Github;
 - CADs variados;
 - Arduíno;
+
+##Projetos
+
+Aqui estão os projetos em estou trabalhando:
+
+![Shrek](https://images.app.goo.gl/jqXciGA1YpiRMF2E9)
