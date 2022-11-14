@@ -11,4 +11,4 @@ Atualmente , estudo:
 
 Aqui estão os projetos em estou trabalhando:
 
-![Shrek](https://images.app.goo.gl/jqXciGA1YpiRMF2E9)
+![Shrek](content://media/external/downloads/1000038258)
